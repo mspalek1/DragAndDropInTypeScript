@@ -16,3 +16,10 @@ More on ES Modules: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guid
 instalacja webpacka
 
 npm install --save-dev webpack webpack-cli webpack-dev-server typescript ts-loader
+
+instalcja plagina
+
+ npm install -save-dev clean-webpack-plugin
+
+
+Official Webpack Docs: https://webpack.js.org/
